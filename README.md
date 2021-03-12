@@ -20,7 +20,7 @@ To install the dependencies just do this
 install python requirements & put your token in config.json file
 ```
 
-## Usage
+## Help command
 ![download](https://media1.tenor.com/images/ffeb7be7baf10caafe3c469b8965362b/tenor.gif?itemid=20715089)
 
 ## website : zeynoxapps.xyz
