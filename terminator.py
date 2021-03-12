@@ -837,11 +837,10 @@ async def gettoken(ctx,*,iduu):
     await ctx.message.delete()
     iduuu = iduu.encode('ascii')
     iduuu = base64.b64encode(iduuu)
-    embedVarasa = discord.Embed(title="Terminator Selfbot command", description="Usage: gettoken [id]", color=0x00ff00)
     idn = str(iduuu.decode("utf-8"))
     usernnn = await terminator.fetch_user(iduu)
-    embedVarasa.add_field(name="Username:", value = str(usernnn),  inline=False)
-    embedVarasa.add_field(name="Token Start:", value = '`'+idn+'`',  inline=False)
+    embedVarasa = discord.Embed(title=emoji+"Username:", description = str(usernnn),color=0x000000)
+    embedVarasa.add_field(name=emoji+"Token Start:", value = '`'+idn+'`',  inline=False)
     await ctx.send(embed=embedVarasa)
   else:
     await ctx.message.delete()
