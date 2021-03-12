@@ -29,7 +29,7 @@ modify the code & release it you must give credits as it is MIT licensed
 ## Help command
 ![image](https://user-images.githubusercontent.com/77850401/110927489-5b64d080-832e-11eb-9a1e-b948901fea6b.png)
 
-## Python Version used : 3.8
+# Python Version used : 3.8
 
 ## website : zeynoxapps.xyz
 
