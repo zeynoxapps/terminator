@@ -10,7 +10,7 @@ NOTE* I WILL NOT HELP YOU TO USE THIS SELFBOT AS SELFBOTS ARE AGAINST DISCORD TO
 ```python
 - lots of hacking commands
 - original scripts
-- 
+- open source so you can customize it
 & many more !
 ```
 
