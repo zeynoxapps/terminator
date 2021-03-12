@@ -23,7 +23,7 @@ install the requirements & put your token in config.json file
 ## Customization Guide
 ```python 
 if don't know discord.py or python all you can do is just to modify the config.json file but if you want to
-modify the code & release it you must give credits as it is MIT licenced
+modify the code & release it you must give credits as it is MIT licensed
 ```
 
 ## Help command
