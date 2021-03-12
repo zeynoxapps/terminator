@@ -24,4 +24,4 @@ install python dependecys (not yet a requirements.txt file so find yourself)
 put your token in config.json file
 ![download](https://pays.host/uploads/2f95c92a-ae40-44a2-a447-564e90014001/vCbtyzA9.png)
 
-#website : zeynoxapps.xyz
+## website : zeynoxapps.xyz
