@@ -2,6 +2,8 @@
 #---------------------------------
 #if you get errors try run it on replit.com
 
+#DISCORD.COM/TOS
+
 import discord, json
 from colorama import Fore, init
 from discord.ext import commands
