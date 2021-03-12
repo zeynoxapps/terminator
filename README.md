@@ -21,6 +21,6 @@ install python requirements & put your token in config.json file
 ```
 
 ## Usage
-![download](https://pays.host/uploads/2f95c92a-ae40-44a2-a447-564e90014001/vCbtyzA9.png)
+![download](https://media1.tenor.com/images/ffeb7be7baf10caafe3c469b8965362b/tenor.gif?itemid=20715089)
 
 ## website : zeynoxapps.xyz
