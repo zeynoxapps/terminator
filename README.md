@@ -17,7 +17,7 @@ NOTE* I WILL NOT HELP YOU TO USE THIS SELFBOT AS SELFBOTS ARE AGAINST DISCORD TO
 ## Installation
 To install the dependencies just do this
 ```python
-install python requirements & put your token in config.json file
+install the requirements & put your token in config.json file
 ```
 
 ## Help command
