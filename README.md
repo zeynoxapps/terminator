@@ -5,7 +5,7 @@ Made by Zeynox (razvan-tools is my repl github associated account)
 
 NOTE* I WILL NOT HELP YOU TO USE THIS SELFBOT AS SELFBOTS ARE AGAINST DISCORD TOS
 
-#FOLLOW DISCORD.COM/TOS
+### FOLLOW DISCORD.COM/TOS
 
 ## Why should you choose terminator?
 
