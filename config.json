@@ -1,0 +1,12 @@
+{
+	"token": "",
+	"prefix": "++",
+  "noembeds": "False",
+
+  "embedtitle":"Terminator Self-bot",
+  "embedimage":"https://media1.tenor.com/images/a4d07e16b8605f8628072fa28e4c8701/tenor.gif",
+  "embedcolor":"800000",
+  "embedemoji": ":tools:",
+
+  "bitly_key": "YOUR_KEY_HERE"
+}
