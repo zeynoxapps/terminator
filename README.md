@@ -20,6 +20,12 @@ To install the dependencies just do this
 install the requirements & put your token in config.json file
 ```
 
+## Customization Guide
+```python 
+if don't know discord.py or python all you can do is just to modify the config.json file but if you want to
+modify the code & release it you must give credits as it is MIT licenced
+```
+
 ## Help command
 ![image](https://user-images.githubusercontent.com/77850401/110927489-5b64d080-832e-11eb-9a1e-b948901fea6b.png)
 
