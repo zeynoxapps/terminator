@@ -21,7 +21,7 @@ install python requirements & put your token in config.json file
 ```
 
 ## Help command
-![image](https://user-images.githubusercontent.com/77850401/110927406-41c38900-832e-11eb-81d7-1dfb861f1932.png)
+![image](https://user-images.githubusercontent.com/77850401/110927489-5b64d080-832e-11eb-9a1e-b948901fea6b.png)
 
 
 ## website : zeynoxapps.xyz
