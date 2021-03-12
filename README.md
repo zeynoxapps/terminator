@@ -1,6 +1,8 @@
 # Terminator Selfbot
 Version 1.3 Beta
 
+Made by Zeynox (razvan-tools is my repl github associated account)
+
 NOTE* I WILL NOT HELP YOU TO USE THIS SELFBOT AS SELFBOTS ARE AGAINST DISCORD TOS
 
 #FOLLOW DISCORD.COM/TOS
