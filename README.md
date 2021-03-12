@@ -25,3 +25,6 @@ install the requirements & put your token in config.json file
 
 
 ## website : zeynoxapps.xyz
+
+
+##AND JUST TO UNDERSTAND : YOU ARE ABLE TO MODIFY THIS & RELEASE YOUR VERSION BUT YOU MUST GIVE CREDITS
