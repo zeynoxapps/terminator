@@ -1,4 +1,4 @@
-#Terminator Selfbot | zeynoxapps.xyz
+#Terminator Selfbot | V 1.3 
 #---------------------------------
 #if you get errors try run it on replit.com
 
